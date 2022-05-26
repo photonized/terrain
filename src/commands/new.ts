@@ -24,7 +24,7 @@ export default class New extends Command {
       default: "react",
     }),
     version: flags.string({
-      default: "0.16",
+      default: "1.0",
     }),
   };
 
